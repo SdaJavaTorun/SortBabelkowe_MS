@@ -15,7 +15,7 @@ public class Main {
          for(int i = 0 ; i < tablica.length; i++){
          tablica[i] = r.nextInt(20);
          System.out.print(tablica[i] + " ");
-            }
+         }
         System.out.println();
 //sortowanie
         for(int i = 0; i < tablica.length-1; i++ ) {
